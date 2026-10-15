@@ -1,0 +1,135 @@
+1
+00:00:00,000 --> 00:00:08,333
+You rank number one on Google. But when a buyer asks ChatGPT, your competitor gets named instead.
+
+2
+00:00:08,533 --> 00:00:12,907
+This may happen more often than most founders expect.
+
+3
+00:00:13,107 --> 00:00:20,050
+Today: what AI SEO actually changes, and what stays the same, for Indian brands.
+
+4
+00:00:20,250 --> 00:00:23,280
+First, the basic difference.
+
+5
+00:00:23,480 --> 00:00:30,949
+Classic SEO is about ranking. Your page sits at a position on a list of ten blue links.
+
+6
+00:00:31,149 --> 00:00:38,907
+AI search is about being mentioned. The tool writes one answer and names a few brands inside it.
+
+7
+00:00:39,107 --> 00:00:48,473
+On Google, position five still gets some clicks. In an AI answer, if you are not named, the buyer may never see you.
+
+8
+00:00:48,673 --> 00:00:54,247
+Now the good news. A lot of what you already do still counts.
+
+9
+00:00:54,447 --> 00:01:03,501
+One. Your pages must be easy to crawl. If search bots cannot read your site, nothing else matters.
+
+10
+00:01:03,701 --> 00:01:12,227
+Google says its AI features use the same core SEO practices as normal search, with no special extra markup.
+
+11
+00:01:12,427 --> 00:01:21,985
+Two. Clear, helpful content still wins. Pages that answer real questions directly are easier to quote.
+
+12
+00:01:22,185 --> 00:01:31,503
+Three. Reputation still matters. Reviews, press and links from trusted sites build trust in both worlds.
+
+13
+00:01:31,703 --> 00:01:37,277
+Now, what actually changes. There are four big shifts.
+
+14
+00:01:37,477 --> 00:01:47,923
+Change one. Questions get longer. Buyers type full questions, like best sunscreen for oily skin under 500 rupees.
+
+15
+00:01:48,123 --> 00:01:56,025
+In India, many of these questions mix Hindi and English. Test the way your buyers actually speak.
+
+16
+00:01:56,225 --> 00:02:06,719
+Change two. Other websites speak for you. AI answers often lean on reviews, lists, marketplaces and forums.
+
+17
+00:02:06,920 --> 00:02:12,902
+So mentions on the right third party sites may matter as much as your own homepage.
+
+18
+00:02:13,102 --> 00:02:21,988
+Change three. Answers change between runs. The same question can name different brands on different days.
+
+19
+00:02:22,188 --> 00:02:28,314
+So you track how often you appear across many runs, not one fixed position.
+
+20
+00:02:28,514 --> 00:02:40,088
+Change four. Every platform behaves differently. ChatGPT, Gemini, Perplexity and Google AI Mode can all give different answers.
+
+21
+00:02:40,288 --> 00:02:45,574
+Being strong on one platform does not mean you show up on the others.
+
+22
+00:02:45,774 --> 00:02:49,236
+So what can an Indian brand do this month?
+
+23
+00:02:49,436 --> 00:02:55,922
+Keep your SEO basics strong. Do not pause what already works on Google.
+
+24
+00:02:56,122 --> 00:03:03,568
+Write ten real buyer questions, including a few in Hinglish, and test them on three AI tools.
+
+25
+00:03:03,768 --> 00:03:10,734
+Note which websites are listed as sources. Those are the places to earn a mention.
+
+26
+00:03:10,933 --> 00:03:17,348
+Add a clear FAQ to your key pages, answering those exact questions in plain words.
+
+27
+00:03:17,548 --> 00:03:22,210
+Then repeat the same questions next month, and compare.
+
+28
+00:03:22,409 --> 00:03:28,272
+Doing this across five AI platforms by hand can take hours every month.
+
+29
+00:03:28,472 --> 00:03:36,950
+Jeevan AI runs your buyer questions on ChatGPT, Gemini, Perplexity, Claude and Google AI Mode for you.
+
+30
+00:03:37,150 --> 00:03:43,708
+You see your visibility on each platform side by side, so the gaps are easy to spot.
+
+31
+00:03:43,908 --> 00:03:48,858
+You see which competitors get named when you don't, and how often.
+
+32
+00:03:49,058 --> 00:03:55,976
+And you see every website the AI tools listed as a source, so your outreach list is ready.
+
+33
+00:03:56,176 --> 00:04:03,070
+Next episode: how to rank in AI search, with patterns we saw in tested queries.
+
+34
+00:04:03,270 --> 00:04:11,676
+Comment one question your buyers ask, and we may test it in a future episode. Subscribe for the full series.

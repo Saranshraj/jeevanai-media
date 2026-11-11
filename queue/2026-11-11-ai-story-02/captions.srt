@@ -1,0 +1,55 @@
+1
+00:00:00,000 --> 00:00:02,280
+Priya needed a sunscreen for oily skin.
+
+2
+00:00:02,980 --> 00:00:04,260
+Under 500 rupees.
+
+3
+00:00:05,280 --> 00:00:08,140
+She didn't Google it, she asked ChatGPT.
+
+4
+00:00:09,280 --> 00:00:11,660
+Arjun's brand made exactly what she needed.
+
+5
+00:00:12,600 --> 00:00:14,640
+Better ingredients, better reviews.
+
+6
+00:00:15,460 --> 00:00:17,200
+But the AI never said his name.
+
+7
+00:00:18,100 --> 00:00:21,100
+So Arjun checked what AI tools were actually reading.
+
+8
+00:00:22,120 --> 00:00:24,760
+The reviews, the comparisons, the sources.
+
+9
+00:00:25,740 --> 00:00:26,840
+He fixed what was missing.
+
+10
+00:00:27,520 --> 00:00:29,500
+Real numbers, real reviews.
+
+11
+00:00:30,500 --> 00:00:32,360
+A month later Priya asked again.
+
+12
+00:00:33,040 --> 00:00:35,380
+And this time his brand made the shortlist.
+
+13
+00:00:36,220 --> 00:00:38,160
+Does AI say your brand's name?
+
+14
+00:00:39,020 --> 00:00:41,240
+Find out at jeevanai.co.in

@@ -1,0 +1,135 @@
+1
+00:00:00,000 --> 00:00:09,702
+Ask ChatGPT the same buying question a hundred times. The chance of seeing the same list of brands twice is less than one in a hundred.
+
+2
+00:00:09,901 --> 00:00:18,355
+So if someone shows you your rank in ChatGPT, be careful. That rank may change on the very next run.
+
+3
+00:00:18,555 --> 00:00:25,737
+In the next few minutes: the numbers worth tracking every month, and a simple routine to fill them in.
+
+4
+00:00:25,937 --> 00:00:33,575
+That first number comes from a study by SparkToro and Gumshoe, published in January 2026.
+
+5
+00:00:33,775 --> 00:00:42,325
+About six hundred volunteers ran twelve prompts through ChatGPT, Claude and Google's AI, nearly three thousand times.
+
+6
+00:00:42,525 --> 00:00:47,931
+The same list in the same order? Closer to one in a thousand.
+
+7
+00:00:48,131 --> 00:00:56,801
+But some brands still showed up in fifty five to seventy seven percent of answers. Presence was steadier than position.
+
+8
+00:00:57,001 --> 00:01:06,223
+The authors note it is not peer reviewed. But it suggests one thing clearly: track how often you are named, not where.
+
+9
+00:01:06,423 --> 00:01:13,677
+Step zero. Write twenty buyer questions, and keep them the same for at least six months.
+
+10
+00:01:13,877 --> 00:01:20,627
+Mix best questions, under a price, versus, is it genuine, and a few in Hinglish.
+
+11
+00:01:20,827 --> 00:01:30,673
+Run each one twice on ChatGPT, Gemini and Perplexity, in fresh chats. That is a hundred and twenty answers a month.
+
+12
+00:01:30,873 --> 00:01:39,183
+Number one. Visibility rate. The answers that name you, divided by all answers.
+
+13
+00:01:39,384 --> 00:01:46,421
+Named in eighteen out of a hundred and twenty answers? Your visibility rate is fifteen percent.
+
+14
+00:01:46,621 --> 00:01:53,371
+Split it by platform and by question type. That shows you where to focus first.
+
+15
+00:01:53,572 --> 00:02:00,825
+Number two. Share of voice. Pick three competitors and keep them fixed.
+
+16
+00:02:01,025 --> 00:02:07,992
+If your visibility rises but your share of voice falls, competitors may be gaining faster than you.
+
+17
+00:02:08,192 --> 00:02:16,286
+Number three. Top sources. Note which websites the AI tools list as sources.
+
+18
+00:02:16,486 --> 00:02:23,668
+Sites that mention your competitors but not you? That is next month's outreach list.
+
+19
+00:02:23,868 --> 00:02:31,386
+Two free Google reports can show part of your AI visibility, and many founders have not opened them yet.
+
+20
+00:02:31,586 --> 00:02:41,048
+Search Console now has generative AI reports. They show how often your pages appear in AI Overviews and AI Mode.
+
+21
+00:02:41,248 --> 00:02:48,382
+Google says these reports reached all websites worldwide by the end of August 2026.
+
+22
+00:02:48,582 --> 00:02:56,124
+And GA4 now has an AI Assistant channel, for visits from tools like ChatGPT and Gemini.
+
+23
+00:02:56,324 --> 00:03:02,546
+Treat it as a floor. Many people read the AI answer and never click.
+
+24
+00:03:02,746 --> 00:03:09,904
+Last, an accuracy check. Each month, read five answers that mention you.
+
+25
+00:03:10,104 --> 00:03:19,110
+Is the price current? Are old products still recommended? If something is wrong, find the source and fix it.
+
+26
+00:03:19,310 --> 00:03:23,852
+Doing all of this by hand can take a few hours every month.
+
+27
+00:03:24,051 --> 00:03:31,545
+Jeevan AI keeps your buyer questions fixed and tagged by stage, so every scan compares like with like.
+
+28
+00:03:31,745 --> 00:03:35,927
+It shows your visibility score after every scan.
+
+29
+00:03:36,127 --> 00:03:40,117
+Broken down by platform, side by side.
+
+30
+00:03:40,317 --> 00:03:46,132
+And how often you were recommended, mentioned or absent across every question.
+
+31
+00:03:46,331 --> 00:03:50,466
+Try it for your brand at jeevanai.co.in.
+
+32
+00:03:50,665 --> 00:04:04,424
+Quick recap. Visibility rate. Share of voice. Top sources. Two Google reports. One accuracy check. Every month.
+
+33
+00:04:04,623 --> 00:04:11,974
+Your first month is your baseline. The trend over three to six months is what really counts.
+
+34
+00:04:12,174 --> 00:04:20,604
+Comment one question your buyers ask, and we may test it in a future episode. Subscribe for the next series.

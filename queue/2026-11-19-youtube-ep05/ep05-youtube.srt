@@ -1,0 +1,143 @@
+1
+00:00:00,000 --> 00:00:11,118
+In March 2026, Reddit was cited in about one in five US ChatGPT answers. By September, it was closer to two in a hundred.
+
+2
+00:00:11,317 --> 00:00:18,931
+So if your plan to get cited by ChatGPT is copied from last year's advice, it may be out of date.
+
+3
+00:00:19,131 --> 00:00:26,457
+In the next five minutes: how to read ChatGPT's sources list, and turn it into a short action plan.
+
+4
+00:00:26,657 --> 00:00:33,119
+First, two different wins. Mentioned means your brand name appears in the answer.
+
+5
+00:00:33,320 --> 00:00:40,405
+Cited means a page is listed as a source. Your own page, or a page about you.
+
+6
+00:00:40,606 --> 00:00:47,571
+For most brands, the goal is to be mentioned. The sources list shows you the route there.
+
+7
+00:00:47,771 --> 00:00:56,609
+Ahrefs compared the top two hundred domains cited in US ChatGPT answers, in March and September 2026.
+
+8
+00:00:56,810 --> 00:01:05,384
+Reddit fell from nineteen percent of answers to about two. Wikipedia fell from fourteen percent to about three.
+
+9
+00:01:05,584 --> 00:01:15,237
+Government and research sites, regulators and hands-on product testers gained. Marketplaces and explainer sites lost ground.
+
+10
+00:01:15,438 --> 00:01:24,227
+It is US data from one period, so treat it as a clue. Your own category's sources list is the real evidence.
+
+11
+00:01:24,427 --> 00:01:33,265
+Step one. Write ten buyer questions, the way your buyers really ask. Leave your brand name out.
+
+12
+00:01:33,465 --> 00:01:42,111
+Run each one in ChatGPT with search on, in a fresh chat. Open the sources and copy every link.
+
+13
+00:01:42,311 --> 00:01:50,981
+Note who each page names: you, your competitors, or nobody. Then run it all again on another day.
+
+14
+00:01:51,182 --> 00:01:56,587
+Step two. Sort every source into one of five buckets.
+
+15
+00:01:56,787 --> 00:02:05,817
+One. Your own website. If it never appears, first check that ChatGPT's search crawler can reach it.
+
+16
+00:02:06,018 --> 00:02:16,704
+Two. Primary and expert sources. Regulators, research, certification lists, and people who test products hands-on.
+
+17
+00:02:16,903 --> 00:02:26,150
+Three. Editorial lists, like best sunscreens in India. Many of these are updated every few months.
+
+18
+00:02:26,349 --> 00:02:36,171
+Four. Communities and video. Reddit, Quora, forums, YouTube, and creators who review your category.
+
+19
+00:02:36,371 --> 00:02:46,530
+Five. Marketplaces and review sites. Amazon, Flipkart, Nykaa, app stores and software review sites.
+
+20
+00:02:46,729 --> 00:02:54,343
+Step three. Score each source. One point for every question that lists it.
+
+21
+00:02:54,543 --> 00:03:02,061
+Plus three if it names a competitor but not you. Plus up to two if you can influence it in ninety days.
+
+22
+00:03:02,261 --> 00:03:08,675
+Take the top five. That is your outreach and content list for the next quarter.
+
+23
+00:03:08,875 --> 00:03:15,409
+Step four. Two quick checks. First, your robots file.
+
+24
+00:03:15,609 --> 00:03:22,912
+OpenAI says sites that block OAI-SearchBot will not be shown in ChatGPT search answers.
+
+25
+00:03:23,111 --> 00:03:30,918
+It is separate from GPTBot, which is used for training. You can allow one and block the other.
+
+26
+00:03:31,117 --> 00:03:38,780
+Second. On November tenth, OpenAI announced Businesses in ChatGPT, in beta.
+
+27
+00:03:38,979 --> 00:03:46,497
+Eligible businesses can claim a profile, verify ownership, and add company details and product feeds.
+
+28
+00:03:46,697 --> 00:03:56,135
+Indian coverage reports it is free at launch. Business Agents are US-only for now. Check if you can claim yours.
+
+29
+00:03:56,335 --> 00:04:00,469
+Doing all of this by hand every month takes time.
+
+30
+00:04:00,669 --> 00:04:08,403
+Jeevan AI shows which competitors AI tools cite instead of you, across every question you track.
+
+31
+00:04:08,603 --> 00:04:16,529
+Its AEO audit checks your pages, including whether AI crawlers are blocked and whether you are on review sites.
+
+32
+00:04:16,729 --> 00:04:22,303
+And Gap Finder turns missing citations into a ranked list of gaps to fix.
+
+33
+00:04:22,503 --> 00:04:26,637
+Try it for your brand at jeevanai.co.in.
+
+34
+00:04:26,837 --> 00:04:39,803
+Quick recap. Collect your sources. Sort them into five buckets. Pick your top five. Do the two checks. Repeat monthly.
+
+35
+00:04:40,003 --> 00:04:46,801
+Comment one website that keeps showing up in your category, and we may look at it in a future episode.
+
+36
+00:04:47,001 --> 00:04:55,959
+Next episode: why AI recommends your competitor, and what to fix first. Subscribe so you do not miss it.
